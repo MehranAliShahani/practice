@@ -1,0 +1,3 @@
+Math : 80
+English :100
+Urdu: 75
